@@ -1,0 +1,6 @@
+balanced_data.parquet
+data/
+http_cache.sqlite
+unbalanced_data.parquet
+.DS_Store
+__pycache__/
