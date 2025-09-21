@@ -1,7 +1,10 @@
 # Han's manual script
 ![Research area](./research_area.jpg)
+
+This project was used for supporting [Han 2023](https://github.com/hanyu2010wendy/PhD-Dissertation).
+
 ## Prepare Data from source
-All processed data is in `data.xlsx`, if you want to prepare data from source, you need download some data to run the Jupyter notebooks `prepare.ipynb`.
+All processed data is in `data.parquet`, if you want to prepare data from source, you need download some data to run the Jupyter notebooks `prepare.ipynb`.
 
 |Variable name| Explanation            | Data source | Preprocessing |
 |-------------|------------------------|---|---|
